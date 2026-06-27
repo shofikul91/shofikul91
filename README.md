@@ -1,15 +1,3 @@
-<!--
-  ===================================================================
-  GITHUB PROFILE README — SHofi Ahmed Biplob Ali
-  ===================================================================
-  HOW TO USE:
-  1. Create a new repository with the SAME name as your GitHub
-     username (e.g. if your username is "biplob123", repo name must
-     be "biplob123"). GitHub will detect it as your profile repo.
-  2. Put this file inside it as README.md.
-  3. Replace every placeholder marked with <!-- REPLACE --> below.
-  ===================================================================
--->
 
 <div align="center">
 
